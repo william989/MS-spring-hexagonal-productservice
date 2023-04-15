@@ -1,5 +1,5 @@
 ### Implementacion Microservicio CRUD
-
+Java 17 SpringFramework 3
 Arquitectura Hexagonal
 
 
